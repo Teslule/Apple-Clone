@@ -6,7 +6,7 @@ import Alert from "./Components/AlertSection/Alert";
 import AppleYoutube from "./Components/YoutubeVideosJan27/AppleYoutube";
 import IpadPro from "./Components/SectionOne/IpadPro";
 import MacAir from "./Components/Sectiontwo/MacAir";
-import IphoneElevenPro from "./Components/Sectionthree/IphoneElevenPro";
+import IphoneElevenPro from "./Components/Sectionthree/IphonePro";
 import IphoneEleven from "./Components/Sectionfour/IphoneEleven";
 import TvShow from "./Components/Sectionfive/TvShow";
 import AppleArcade from "./Components/Sectionsix/AppleArcade";
@@ -18,7 +18,7 @@ function App() {
       <Alert />
       <IpadPro />
       <MacAir />
-      <IphoneElevenPro />
+      <IphonePro />
       <IphoneEleven />
       <TvShow />
       <AppleArcade />

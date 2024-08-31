@@ -1,6 +1,6 @@
 import React from 'react';
 
-function IphoneElevenPro() {
+function IphonePro() {
   return (
     <div
        className="third-hightlight-wrapper">
@@ -31,4 +31,4 @@ function IphoneElevenPro() {
   );
 }
 
-export default IphoneElevenPro;
+export default IphonePro;
